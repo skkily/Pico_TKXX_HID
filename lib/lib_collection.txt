@@ -1,0 +1,4 @@
+adafruit_st7789.mpy			https://github.com/adafruit/Adafruit_CircuitPython_ST7789
+adafruit_hid			https://github.com/adafruit/Adafruit_CircuitPython_HID
+adafruit_display_text			https://github.com/adafruit/Adafruit_CircuitPython_Display_Text
+adafruit_display_shapes		https://github.com/ladyada/Adafruit_CircuitPython_Display_Shapes
