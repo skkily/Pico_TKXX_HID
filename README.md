@@ -48,4 +48,4 @@ Raspberry Pi uses the peripheral board tkxx (st7789+button) to simulate HID keyb
    [点此下载](https://circuitpython.org/board/raspberry_pi_pico/) 下载8.x版本
 
 2. 按住Pico的BOOTSEL键连接数据线, 吧下载的adafruit-circuitpython-raspberry_pi_pico-en_US-8.2.9.uf2.复制到出现的RPI-RP2磁盘中.
-3. 吧本项目release压缩包解压到出现的CIRCUITPY磁盘中, 完成.
+4. 吧本项目release压缩包解压到出现的CIRCUITPY磁盘中, 并删除其中的code.py, 完成.
